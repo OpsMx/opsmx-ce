@@ -1,2 +1,2 @@
-# opsmx-ce
-Retrives the docker stats, system metrics, interface metrics and docker container details
+# OpsMx-CE
+This repository is meant to build the base image for a opsmx-ce container.
